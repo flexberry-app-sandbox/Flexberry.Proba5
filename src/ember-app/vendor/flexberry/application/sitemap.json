@@ -1,0 +1,29 @@
+﻿{
+  "applicationCaption": "Proba",
+  "applicationTitle": "Proba",
+  "items": [
+    {
+      "link": null,
+      "menuName": "proba",
+      "caption": "Proba",
+      "title": "Proba",
+      "children": [
+        {
+          "link": "i-i-s-proba-должность-l",
+          "menuName": null,
+          "caption": "Должность",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-proba-сотрудник-l",
+          "menuName": null,
+          "caption": "Сотрудник",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}
